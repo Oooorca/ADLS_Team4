@@ -1,0 +1,5 @@
+name: mase
+
+dependencies:
+  - python=3.11.4
+  - pip
