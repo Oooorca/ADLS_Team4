@@ -10,6 +10,12 @@ To get started, the following packages need to be installed additional to the MA
 - `pytorch-quantization==2.2.0`
 - `pycuda==2024.1`
 
+Tips:"https://blog.csdn.net/phily123/article/details/133824195?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-133824195-blog-143572195.235%5Ev43%5Epc_blog_bottom_relevance_base3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-133824195-blog-143572195.235%5Ev43%5Epc_blog_bottom_relevance_base3&utm_relevant_index=1"
+
+I install pytorch-quantization==2.1.2 pycuda-2025.1 pytools-2025.1.1 
+
+pip install nvidia-pyindex
+
 ## Main Achievements
 All basic requirements for the project.
 
