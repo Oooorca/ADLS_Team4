@@ -1,2 +1,0 @@
-accelerator = "cpu"
-[passes.report_graph]
