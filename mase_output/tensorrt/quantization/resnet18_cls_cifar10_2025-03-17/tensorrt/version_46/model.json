@@ -1,0 +1,10 @@
+{
+    "Average Accuracy": 0.6277005923215789,
+    "Average Precision": 0.7268258333206177,
+    "Average Recall": 0.7194444537162781,
+    "Average F1 Score": 0.7191289663314819,
+    "Average Loss": 0.8069384511673089,
+    "Average Latency": 1.444622744213451,
+    "Average GPU Power Usage": 12.094041269841243,
+    "Inference Energy Consumption": 0.0048531464132968855
+}
